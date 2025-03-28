@@ -1,0 +1,17 @@
+# 1. Construir el backend en Go
+FROM golang:alpine AS builder
+WORKDIR /app
+COPY backend/ .
+RUN go build -o backend
+
+# 2. Configurar NGINX y copiar archivos estáticos
+FROM nginx:alpine
+COPY --from=builder /app/backend /usr/bin/backend
+COPY frontend/ /usr/share/nginx/html
+COPY nginx/nginx.conf /etc/nginx/nginx.conf
+
+# Exponer los puertos
+EXPOSE 7000
+
+# Ejecutar el backend y NGINX
+CMD (nginx -g "daemon off;" &) && /usr/bin/backend

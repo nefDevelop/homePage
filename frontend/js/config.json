@@ -1,0 +1,251 @@
+{
+  "links": {
+    "~\\Externos": {
+      "color":"--col-ext",
+      "items":{
+        "Bandeja Gmail": {
+          "url":"http://mail.google.com/",
+          "icon":"fas fa-inbox",
+          "description":"Bandeja de correos Gmail"
+        },
+        "Github": {
+          "url":"http://mail.google.com/",
+          "icon":"fab fa-github",
+          "description":"GitHub"
+        }
+      }
+    },
+    "~\\Cursos": {
+      "color":"--col-cur",
+      "items":{
+        "freeCodeCamp": {
+          "url":"https://www.freecodecamp.org/learn/",
+          "icon":"",
+          "description":"freeCodeCamp"
+        },
+        "Ilerna": {
+          "url":"https://campus.ilerna.com/ultra/course",
+          "icon":"fa-chalkboard-user",
+          "description":"Ilerna campus"
+        },
+        "IBM": {
+          "url":"https://skills.yourlearning.ibm.com/",
+          "icon":"fa-chalkboard-user",
+          "description":"Ilerna campus"
+        },
+        "Javascript": {
+          "url":"https://es.javascript.info/",
+          "icon":"fa-chalkboard-user",
+          "description":"Ilerna campus"
+        }
+      }
+    },
+    "~\\IA": {
+      "color":"--color-cur",
+      "items":{
+        "chatGPT": {
+          "url":"https://chatgpt.com/",
+          "icon":"fa-laptop-code",
+          "description":"chatgpt"
+        },
+        "Claude": {
+          "url":"https://claude.ai/",
+          "icon":"fa-chalkboard-user",
+          "description":"Ilerna campus"
+        },
+        "Deepseek": {
+          "url":"https://chat.deepseek.com/",
+          "icon":"fa-chalkboard-user",
+          "description":"Ilerna campus"
+        },
+        "Suno": {
+          "url":"https://suno.com/",
+          "icon":"fa-chalkboard-user",
+          "description":"Ilerna campus"
+        },
+        "Red Panda AI": {
+          "url":"https://redpandaai.com/",
+          "icon":"fa-chalkboard-user",
+          "description":"Ilerna campus"
+        },
+        "Gemini": {
+          "url":"https://gemini.google.com",
+          "icon":"fa-chalkboard-user",
+          "description":"Ilerna campus"
+        }
+      }
+    },
+
+    "~\\se": {
+      "color":"--color-cur",
+      "items":{
+        "Archivo": {
+          "url":"http://archivo.734038.xyz",
+          "icon":"fa-laptop-code",
+          "description":"freeCodeCamp"
+        },
+        "Syncthing": {
+          "url":"http://sync.734038.xyz",
+          "icon":"fa-chalkboard-user",
+          "description":"Ilerna campus"
+        },
+        "Biblioteca": {
+          "url":"http://archivo.734038.xyz",
+          "icon":"fa-chalkboard-user",
+          "description":"Ilerna campus"
+        },
+        "Gitea": {
+          "url":"http://git.734038.xyz",
+          "icon":"fa-chalkboard-user",
+          "description":"Ilerna campus"
+        },
+        "Podcast": {
+          "url":"http://podcast.734038.xyz",
+          "icon":"fa-chalkboard-user",
+          "description":"Ilerna campus"
+        },        
+        "Feishin": {
+          "url":"http://loud.734038.xyz",
+          "icon":"fa-chalkboard-user",
+          "description":"Ilerna campus"
+        },
+        "Code": {
+          "url":"http://code.734038.xyz",
+          "icon":"fa-chalkboard-user",
+          "description":"Ilerna campus"
+        },
+        "qbit": {
+          "url":"http://qbit.734038.xyz",
+          "icon":"fa-chalkboard-user",
+          "description":"Ilerna campus"
+        }
+      }
+    },
+      "~\\sd2e": {
+        "color":"--color-cur",
+        "items":{
+        "Home": {
+          "url":"http://www.734038.xyz",
+          "icon":"fa-laptop-code",
+          "description":"freeCodeCamp"
+        },
+        "Podder": {
+          "url":"http://podder.734038.xyz",
+          "icon":"fa-chalkboard-user",
+          "description":"Ilerna campus"
+        },
+        "Hoarder": {
+          "url":"http://hoarder.734038.xyz",
+          "icon":"fa-chalkboard-user",
+          "description":"Ilerna campus"
+        },
+        "itt": {
+          "url":"http://itt.734038.xyz",
+          "icon":"fa-chalkboard-user",
+          "description":"Ilerna campus"
+        },
+        "webTerm": {
+          "url":"http://term.734038.xyz",
+          "icon":"fa-chalkboard-user",
+          "description":"Ilerna campus"
+        },        
+        "Pdf Study": {
+          "url":"http://pdfstudy.734038.xyz",
+          "icon":"fa-chalkboard-user",
+          "description":"Ilerna campus"
+        },
+        "Alist": {
+          "url":"http://alist.734038.xyz",
+          "icon":"fa-chalkboard-user",
+          "description":"Ilerna campus"
+        },
+        "Readeck": {
+          "url":"http://readeck.734038.xyz",
+          "icon":"fa-chalkboard-user",
+          "description":"Ilerna campus"
+        }
+
+      }
+    },
+    "~\\Name": {
+      "color":"--color-cur",
+      "items":{
+        "Memo": {
+          "url":"http://term.734038.xyz",
+          "icon":"fa-laptop-code",
+          "description":"freeCodeCamp"
+        },
+        "Linkwarden": {
+          "url":"http://lnkwarden.734038.xyz",
+          "icon":"fa-chalkboard-user",
+          "description":"Ilerna campus"
+        },
+        "slskd": {
+          "url":"http://192.168.30.30:8604",
+          "icon":"fa-chalkboard-user",
+          "description":"Ilerna campus"
+        },
+        "radarr": {
+          "url":"http://192.168.30.30:8608",
+          "icon":"fa-chalkboard-user",
+          "description":"Ilerna campus"
+        },
+        "lidarr": {
+          "url":"http://192.168.30.30:8603",
+          "icon":"fa-chalkboard-user",
+          "description":"Ilerna campus"
+        },        
+        "jellyseer": {
+          "url":"http://192.168.30.30:8606",
+          "icon":"fa-chalkboard-user",
+          "description":"Ilerna campus"
+        },
+        "penpot": {
+          "url":"http://192.168.30.30:9001",
+          "icon":"fa-chalkboard-user",
+          "description":"Ilerna campus"
+        },
+        "gonic": {
+          "url":"http://192.168.30.30:88106",
+          "icon":"fa-chalkboard-user",
+          "description":"Ilerna campus"
+        },
+        "jellyfin": {
+          "url":"http://192.168.30.30:8103",
+          "icon":"fa-laptop-code",
+          "description":"freeCodeCamp"
+        },
+        "jellyAMP": {
+          "url":"http://192.168.30.30:8105/",
+          "icon":"fa-chalkboard-user",
+          "description":"Ilerna campus"
+        }
+      }
+    }
+  },
+  "settings": {
+    "theme": "nord",
+    "language": "es",
+    "columns": 3,
+    "name": "Nef734",
+    "imageRandom": false,
+    "searchBar": {
+      "google": {
+        "key": "g",
+        "address": "https://www.google.com/search?q="
+      },
+      "youtube": {
+        "key": "yt",
+        "address": "https://www.youtube.com/results?search_query="
+      },
+      "bing": {
+        "key": "b",
+        "address": "https://www.bing.com/search?q="
+      },
+      "duckduckgo": {
+        "key": "ddg",
+        "address": "https://duckduckgo.com/?q="
+      }
+    }
+  }
+}
